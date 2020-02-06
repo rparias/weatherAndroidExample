@@ -5,8 +5,6 @@
 Para obtener la información he usado <a href="https://openweathermap.org" target="_blank">OpenWeatherMap</a> API. 
 La API transmite información como temperatura, presión, humedad, estado del tiempo, hora del amanecer y atardecer, etc.
 </p>
-
-<b>Creating an Android Weather App using Kotlin</b>
 </a>
 </p>
 
@@ -14,8 +12,8 @@ La API transmite información como temperatura, presión, humedad, estado del ti
 <br><h2>Obteniendo una API key para OpenWeatherMap</h2>
 <p>Para recuperar datos usaremos <strong>OpenWeatherAPI</strong>, y necesitaremos una clave de la API para ello. Antes de continuar, se debe obtener una clave de la API registrándose en su página.</p>
 <ol>
-<li>Crear una nueva cuenta en <a title="Create new account" href="https://home.openweathermap.org/users/sign_up" target="_blank" rel="noopener">here</a>.</li>
-<li>Después de iniciar sesión ir a <a title="Get the API key" href="https://home.openweathermap.org/api_keys" target="_blank" rel="noopener">here</a> para obtener la API Key.</li>
+<li>Crear una nueva cuenta en <a title="Create new account" href="https://home.openweathermap.org/users/sign_up" target="_blank" rel="noopener">aquí</a>.</li>
+<li>Después de iniciar sesión ir a <a title="Get the API key" href="https://home.openweathermap.org/api_keys" target="_blank" rel="noopener">aquí</a> para obtener la API Key.</li>
 </ol>
 
 <br><h2>Obteniendo información del clima usando Latitud y Longitud</h2>
@@ -25,5 +23,3 @@ La API transmite información como temperatura, presión, humedad, estado del ti
                 )</pre>
 <p>donde LAT y LON será la Latitud &amp; Longitud respectivamente.
 </p>
-
-# weatherAndroidExample
