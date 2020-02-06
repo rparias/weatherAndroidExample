@@ -1,4 +1,4 @@
-# Android-Weather-App
+# Android-Aplicación del Clima
 
 <br>
 <p>Este proyecto consiste en la creación de una aplicación para Android usando Kotlin para consultar el clima.
